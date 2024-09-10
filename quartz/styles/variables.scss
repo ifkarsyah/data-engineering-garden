@@ -1,0 +1,9 @@
+$pageWidth: 800px; // default 750px, but not fit within Mac 13(the site displayed in mobile mode)
+$mobileBreakpoint: 600px;
+$tabletBreakpoint: 1000px;
+$sidePanelWidth: 250px;
+$topSpacing: 6rem;
+$fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
+$boldWeight: 700;
+$semiBoldWeight: 600;
+$normalWeight: 400;
