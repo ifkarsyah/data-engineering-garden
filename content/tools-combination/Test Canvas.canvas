@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aa7fa82ebdd0dae1","x":-200,"y":-80,"width":180,"height":60,"type":"text","text":"[[Apache Kafka]]"},
+		{"id":"76bc616e854cf64f","x":80,"y":-78,"width":160,"height":56,"type":"text","text":"[[Apache Flink]]"},
+		{"id":"8bc728592404c4a6","x":320,"y":-80,"width":160,"height":60,"type":"text","text":"[[ClickHouse]]"}
+	],
+	"edges":[
+		{"id":"6e10038874a9b730","fromNode":"aa7fa82ebdd0dae1","fromSide":"right","toNode":"76bc616e854cf64f","toSide":"left"},
+		{"id":"7b61c99d9c0c31b8","fromNode":"76bc616e854cf64f","fromSide":"right","toNode":"8bc728592404c4a6","toSide":"left"}
+	]
+}

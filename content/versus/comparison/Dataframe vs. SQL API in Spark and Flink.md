@@ -1,0 +1,2 @@
+- https://www.confessionsofadataguy.com/dataframes-vs-sparksql-which-one-should-you-choose/
+- https://medium.com/@tglawless/apache-iceberg-spark-sql-vs-spark-dataframes-4f51c2fec48d

@@ -1,0 +1,1 @@
+https://medium.com/elca-it/is-performance-the-only-decision-factor-for-current-cloud-data-warehouses-and-lakehouses-24c142e9b9a4

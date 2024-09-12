@@ -1,0 +1,1 @@
+- https://www.freedium.cfd/https://medium.com/coriers/how-far-can-we-separate-storage-and-compute-f03b7672f41b

@@ -1,0 +1,2 @@
+- https://medium.com/smartnews-inc/solution-to-exactly-once-insertion-from-flink-to-clickhouse-70fd77f83d40
+- https://www.deltastream.io/prepare-data-for-clickhouse-using-apache-flink/

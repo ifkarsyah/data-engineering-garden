@@ -1,0 +1,1 @@
+- https://www.wallarm.com/cloud-native-products-101/apache-beam-vs-flink-stream-processing
